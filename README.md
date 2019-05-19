@@ -1,1 +1,1 @@
-# linear_regression_gradient-descent
+# linear_regression_gradient_descent
